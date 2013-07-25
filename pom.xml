@@ -24,7 +24,7 @@
             </plugin>
 
             <!-- start jetty web container with `mvn clean jetty:run` -->
-            <!-- Open http://localhost:8080/webapi/myresource in your browser -->
+            <!-- Open http://localhost:8080/ in your browser -->
             <plugin>
                 <groupId>org.mortbay.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
